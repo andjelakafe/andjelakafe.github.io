@@ -62,18 +62,18 @@ body {
   .flavor,
   .dessert {
     text-align: left;
-    width: 33%;
+    width: 25%;
   }
   
   .price {
     text-align: right;
-    width: 30%;
+    width: 25%;
   }
   .quantity{
     display: flex;
     align-items: center;
     text-align: center;
-    width: 33%;
+    width: 50%;
   }
   .quantity::before,
   .quantity::after {
