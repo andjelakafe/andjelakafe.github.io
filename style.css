@@ -27,7 +27,7 @@ body {
   .menu {
     width: 100%;
     background-color: burlywood;
-
+    margin: auto;
     padding: 20px;
   }
   img {
